@@ -8,4 +8,4 @@ See the video for further information, pictures and an
 explanation of the design process.
 
 These were inspired by Devin Montes' [Super Satisfying Twist Containers](https://www.youtube.com/watch?v=VWuu0z3s3zM)
-video on the Make Anything channel.
+video on the [Make Anything](https://www.youtube.com/channel/UCVc6AHfGw9b2zOE_ZGfmsnw) channel.
